@@ -24,9 +24,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript">
   </a>
-	  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript">
-  </a>
 
 ### 👉 Frontend Development
 <p align="left"> 
